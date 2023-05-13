@@ -1,0 +1,6 @@
+.notes
+run.sh
+**/__pycache__/
+poetry.lock
+pyproject.toml
+requirements.txt
